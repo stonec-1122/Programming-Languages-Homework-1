@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\homework\\2.25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05ED89E2-51C9-480C-B133-978EF4CECEE9}|2.25\\2.25.vcxproj|C:\\Users\\USER\\Desktop\\homework\\2.25\\2.25\\2.25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05ED89E2-51C9-480C-B133-978EF4CECEE9}|2.25\\2.25.vcxproj|solutionrelative:2.25\\2.25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.25.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\homework\\2.25\\2.25\\2.25.cpp",
+              "RelativeDocumentMoniker": "2.25\\2.25.cpp",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\homework\\2.25\\2.25\\2.25.cpp",
+              "RelativeToolTip": "2.25\\2.25.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T14:19:06.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
